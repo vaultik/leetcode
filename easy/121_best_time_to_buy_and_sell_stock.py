@@ -1,3 +1,7 @@
+# 121. Best Time to Buy and Sell Stock
+# Difficulty: Easy
+# https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+# Time: O(n) | Space: O(1)
 from typing import List
 
 

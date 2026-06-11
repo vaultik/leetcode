@@ -1,3 +1,7 @@
+# 217. Contains Duplicate
+# Difficulty: Easy
+# https://leetcode.com/problems/contains-duplicate/
+# Time: O(n) | Space: O(n)
 from typing import List
 
 
