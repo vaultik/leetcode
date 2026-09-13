@@ -3,9 +3,10 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-32-blue)
-![Easy](https://img.shields.io/badge/Easy-29-green)
-![Medium](https://img.shields.io/badge/Medium-3-orange)
+![Solved](https://img.shields.io/badge/Solved-40-blue)
+![Easy](https://img.shields.io/badge/Easy-34-green)
+![Medium](https://img.shields.io/badge/Medium-5-orange)
+![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Progress
 
@@ -29,13 +30,21 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | [py](easy/083_remove_duplicates_from_sorted_list.py) |
 | 88 | Merge Sorted Array | Easy | Arrays / Two Pointers | [py](easy/088_merge_sorted_array.py) |
 | 94 | Binary Tree Inorder Traversal | Easy | Binary Tree / DFS | [py](easy/094_binary_tree_inorder_traversal.py) |
+| 100 | Same Tree | Easy | Binary Tree / DFS | [py](easy/100_same_tree.py) |
+| 101 | Symmetric Tree | Easy | Binary Tree / DFS | [py](easy/101_symmetric_tree.py) |
+| 104 | Maximum Depth of Binary Tree | Easy | Binary Tree / DFS | [py](easy/104_maximum_depth_of_binary_tree.py) |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy | Binary Tree / DFS | [py](easy/108_convert_sorted_array_to_bst.py) |
+| 110 | Balanced Binary Tree | Easy | Binary Tree / DFS | [py](easy/110_balanced_binary_tree.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Arrays / Sliding Window | [py](easy/121_best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | Easy | Strings / Two Pointers | [py](easy/125_valid_palindrome.py) |
 | 144 | Binary Tree Preorder Traversal | Easy | Binary Tree / DFS | [py](easy/144_binary_tree_preorder_traversal.py) |
 | 145 | Binary Tree Postorder Traversal | Easy | Binary Tree / DFS | [py](easy/145_binary_tree_postorder_traversal.py) |
+| 146 | LRU Cache | Medium | Design / Linked List | [py](medium/146_lru_cache.py) |
 | 206 | Reverse Linked List | Easy | Linked List | [py](easy/206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | Arrays / Hash Set | [py](easy/217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | Strings / Hash Map | [py](easy/242_valid_anagram.py) |
+| 560 | Subarray Sum Equals K | Medium | Arrays / Hash Map | [py](medium/560_subarray_sum_equals_k.py) |
+| 564 | Find the Closest Palindrome | Hard | Math / Strings | [py](hard/564_find_the_closest_palindrome.py) |
 | 704 | Binary Search | Easy | Arrays / Binary Search | [py](easy/704_binary_search.py) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Arrays / Binary Search | [py](easy/744_find_smallest_letter.py) |
 | 746 | Min Cost Climbing Stairs | Easy | Dynamic Programming | [py](easy/746_min_cost_climbing_stairs.py) |
@@ -67,6 +76,11 @@ leetcode/
 │   ├── 083_remove_duplicates_from_sorted_list.py
 │   ├── 088_merge_sorted_array.py
 │   ├── 094_binary_tree_inorder_traversal.py
+│   ├── 100_same_tree.py
+│   ├── 101_symmetric_tree.py
+│   ├── 104_maximum_depth_of_binary_tree.py
+│   ├── 108_convert_sorted_array_to_bst.py
+│   ├── 110_balanced_binary_tree.py
 │   ├── 121_best_time_to_buy_and_sell_stock.py
 │   ├── 125_valid_palindrome.py
 │   ├── 144_binary_tree_preorder_traversal.py
@@ -77,11 +91,15 @@ leetcode/
 │   ├── 704_binary_search.py
 │   ├── 744_find_smallest_letter.py
 │   ├── 746_min_cost_climbing_stairs.py
-│   └── 3300_minimum_element_digit_sum.py
+│   ├── 3300_minimum_element_digit_sum.py
 │── medium/
 │   ├── 002_add_two_numbers.py
 │   ├── 053_maximum_subarray.py
-│   └── 122_best_time_to_buy_and_sell_stock_ii.py
+│   ├── 122_best_time_to_buy_and_sell_stock_ii.py
+│   ├── 146_lru_cache.py
+│   ├── 560_subarray_sum_equals_k.py
+│── hard/
+│   ├── 564_find_the_closest_palindrome.py
 ```
 
 ## Author
