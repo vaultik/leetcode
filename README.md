@@ -3,9 +3,9 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-40-blue)
-![Easy](https://img.shields.io/badge/Easy-34-green)
-![Medium](https://img.shields.io/badge/Medium-5-orange)
+![Solved](https://img.shields.io/badge/Solved-49-blue)
+![Easy](https://img.shields.io/badge/Easy-41-green)
+![Medium](https://img.shields.io/badge/Medium-7-orange)
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ## Progress
@@ -13,6 +13,8 @@ For problems with multiple solutions, the file contains both the first attempt a
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|------------|-------|----------|
 | 1 | Two Sum | Easy | Arrays / Hash Map | [py](easy/001_two_sum.py) |
+| 3 | Longest Substring Without Repeating Characters | Medium | Strings / Sliding Window | [py](medium/003_longest_substring_without_repeating_characters.py) |
+| 5 | Longest Palindromic Substring | Medium | Strings / Dynamic Programming | [py](medium/005_longest_palindromic_substring.py) |
 | 9 | Palindrome Number | Easy | Strings | [py](easy/009_palindrome_number.py) |
 | 13 | Roman to Integer | Easy | Strings / Hash Map | [py](easy/013_roman_to_integer.py) |
 | 14 | Longest Common Prefix | Easy | Strings | [py](easy/014_longest_common_prefix.py) |
@@ -35,8 +37,14 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 104 | Maximum Depth of Binary Tree | Easy | Binary Tree / DFS | [py](easy/104_maximum_depth_of_binary_tree.py) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Binary Tree / DFS | [py](easy/108_convert_sorted_array_to_bst.py) |
 | 110 | Balanced Binary Tree | Easy | Binary Tree / DFS | [py](easy/110_balanced_binary_tree.py) |
+| 111 | Minimum Depth of Binary Tree | Easy | Binary Tree / BFS | [py](easy/111_minimum_depth_of_binary_tree.py) |
+| 112 | Path Sum | Easy | Binary Tree / DFS | [py](easy/112_path_sum.py) |
+| 118 | Pascal's Triangle | Easy | Arrays / Dynamic Programming | [py](easy/118_pascals_triangle.py) |
+| 119 | Pascal's Triangle II | Easy | Arrays / Dynamic Programming | [py](easy/119_pascals_triangle_ii.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Arrays / Sliding Window | [py](easy/121_best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | Easy | Strings / Two Pointers | [py](easy/125_valid_palindrome.py) |
+| 136 | Single Number | Easy | Arrays / Bit Manipulation | [py](easy/136_single_number.py) |
+| 141 | Linked List Cycle | Easy | Linked List / Two Pointers | [py](easy/141_linked_list_cycle.py) |
 | 144 | Binary Tree Preorder Traversal | Easy | Binary Tree / DFS | [py](easy/144_binary_tree_preorder_traversal.py) |
 | 145 | Binary Tree Postorder Traversal | Easy | Binary Tree / DFS | [py](easy/145_binary_tree_postorder_traversal.py) |
 | 146 | LRU Cache | Medium | Design / Linked List | [py](medium/146_lru_cache.py) |
@@ -81,8 +89,14 @@ leetcode/
 │   ├── 104_maximum_depth_of_binary_tree.py
 │   ├── 108_convert_sorted_array_to_bst.py
 │   ├── 110_balanced_binary_tree.py
+│   ├── 111_minimum_depth_of_binary_tree.py
+│   ├── 112_path_sum.py
+│   ├── 118_pascals_triangle.py
+│   ├── 119_pascals_triangle_ii.py
 │   ├── 121_best_time_to_buy_and_sell_stock.py
 │   ├── 125_valid_palindrome.py
+│   ├── 136_single_number.py
+│   ├── 141_linked_list_cycle.py
 │   ├── 144_binary_tree_preorder_traversal.py
 │   ├── 145_binary_tree_postorder_traversal.py
 │   ├── 206_reverse_linked_list.py
@@ -94,6 +108,8 @@ leetcode/
 │   ├── 3300_minimum_element_digit_sum.py
 │── medium/
 │   ├── 002_add_two_numbers.py
+│   ├── 003_longest_substring_without_repeating_characters.py
+│   ├── 005_longest_palindromic_substring.py
 │   ├── 053_maximum_subarray.py
 │   ├── 122_best_time_to_buy_and_sell_stock_ii.py
 │   ├── 146_lru_cache.py
