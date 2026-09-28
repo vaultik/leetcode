@@ -13,6 +13,7 @@ For problems with multiple solutions, the file contains both the first attempt a
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|------------|-------|----------|
 | 1 | Two Sum | Easy | Arrays / Hash Map | [py](easy/001_two_sum.py) |
+| 2 | Add Two Numbers | Medium | Linked List | [py](medium/002_add_two_numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | Strings / Sliding Window | [py](medium/003_longest_substring_without_repeating_characters.py) |
 | 5 | Longest Palindromic Substring | Medium | Strings / Dynamic Programming | [py](medium/005_longest_palindromic_substring.py) |
 | 6 | Zigzag Conversion | Medium | Strings | [py](medium/006_zigzag_conversion.py) |
@@ -27,6 +28,7 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 27 | Remove Element | Easy | Arrays / Two Pointers | [py](easy/027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Strings / Sliding Window | [py](easy/028_find_index_first_occurrence_string.py) |
 | 35 | Search Insert Position | Easy | Arrays / Binary Search | [py](easy/035_search_insert_position.py) |
+| 53 | Maximum Subarray | Medium | Arrays / Dynamic Programming | [py](medium/053_maximum_subarray.py) |
 | 58 | Length of Last Word | Easy | Strings | [py](easy/058_length_of_last_word.py) |
 | 66 | Plus One | Easy | Arrays | [py](easy/066_plus_one.py) |
 | 67 | Add Binary | Easy | Strings / Math | [py](easy/067_add_binary.py) |
@@ -45,6 +47,7 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 118 | Pascal's Triangle | Easy | Arrays / Dynamic Programming | [py](easy/118_pascals_triangle.py) |
 | 119 | Pascal's Triangle II | Easy | Arrays / Dynamic Programming | [py](easy/119_pascals_triangle_ii.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Arrays / Sliding Window | [py](easy/121_best_time_to_buy_and_sell_stock.py) |
+| 122 | Best Time to Buy and Sell Stock II | Medium | Arrays / Greedy | [py](medium/122_best_time_to_buy_and_sell_stock_ii.py) |
 | 125 | Valid Palindrome | Easy | Strings / Two Pointers | [py](easy/125_valid_palindrome.py) |
 | 136 | Single Number | Easy | Arrays / Bit Manipulation | [py](easy/136_single_number.py) |
 | 141 | Linked List Cycle | Easy | Linked List / Two Pointers | [py](easy/141_linked_list_cycle.py) |
@@ -66,9 +69,6 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 744 | Find Smallest Letter Greater Than Target | Easy | Arrays / Binary Search | [py](easy/744_find_smallest_letter.py) |
 | 746 | Min Cost Climbing Stairs | Easy | Dynamic Programming | [py](easy/746_min_cost_climbing_stairs.py) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | Arrays | [py](easy/3300_minimum_element_digit_sum.py) |
-| 2 | Add Two Numbers | Medium | Linked List | [py](medium/002_add_two_numbers.py) |
-| 53 | Maximum Subarray | Medium | Arrays / Dynamic Programming | [py](medium/053_maximum_subarray.py) |
-| 122 | Best Time to Buy and Sell Stock II | Medium | Arrays / Greedy | [py](medium/122_best_time_to_buy_and_sell_stock_ii.py) |
 
 ## Structure
 
