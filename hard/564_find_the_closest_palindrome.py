@@ -4,7 +4,7 @@
 # Time: O(n) | Space: O(n)
 
 
-# Сandidate generation: edge cases + prefix ±1
+# Сandidate generation: edge cases + prefix ±1  (solved with AI hints)
 class Solution:
     def nearestPalindromic(self, n: str) -> str:
         n_length = len(n)

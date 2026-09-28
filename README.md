@@ -3,10 +3,10 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-49-blue)
-![Easy](https://img.shields.io/badge/Easy-41-green)
-![Medium](https://img.shields.io/badge/Medium-7-orange)
-![Hard](https://img.shields.io/badge/Hard-1-red)
+![Solved](https://img.shields.io/badge/Solved-58-blue)
+![Easy](https://img.shields.io/badge/Easy-46-green)
+![Medium](https://img.shields.io/badge/Medium-11-orange)
+![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
 
@@ -15,6 +15,9 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 1 | Two Sum | Easy | Arrays / Hash Map | [py](easy/001_two_sum.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | Strings / Sliding Window | [py](medium/003_longest_substring_without_repeating_characters.py) |
 | 5 | Longest Palindromic Substring | Medium | Strings / Dynamic Programming | [py](medium/005_longest_palindromic_substring.py) |
+| 6 | Zigzag Conversion | Medium | Strings | [py](medium/006_zigzag_conversion.py) |
+| 7 | Reverse Integer | Medium | Math | [py](medium/007_reverse_integer.py) |
+| 8 | String to Integer (atoi) | Medium | Strings / Math | [py](medium/008_string_to_integer_atoi.py) |
 | 9 | Palindrome Number | Easy | Strings | [py](easy/009_palindrome_number.py) |
 | 13 | Roman to Integer | Easy | Strings / Hash Map | [py](easy/013_roman_to_integer.py) |
 | 14 | Longest Common Prefix | Easy | Strings | [py](easy/014_longest_common_prefix.py) |
@@ -48,6 +51,12 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 144 | Binary Tree Preorder Traversal | Easy | Binary Tree / DFS | [py](easy/144_binary_tree_preorder_traversal.py) |
 | 145 | Binary Tree Postorder Traversal | Easy | Binary Tree / DFS | [py](easy/145_binary_tree_postorder_traversal.py) |
 | 146 | LRU Cache | Medium | Design / Linked List | [py](medium/146_lru_cache.py) |
+| 160 | Intersection of Two Linked Lists | Easy | Linked List / Two Pointers | [py](easy/160_intersection_of_two_linked_lists.py) |
+| 168 | Excel Sheet Column Title | Easy | Math / Strings | [py](easy/168_excel_sheet_column_title.py) |
+| 169 | Majority Element | Easy | Arrays / Hash Map | [py](easy/169_majority_element.py) |
+| 171 | Excel Sheet Column Number | Easy | Math / Strings | [py](easy/171_excel_sheet_column_number.py) |
+| 174 | Dungeon Game | Hard | Dynamic Programming | [py](hard/174_dungeon_game.py) |
+| 175 | Combine Two Tables | Easy | SQL / Pandas | [py](easy/175_combine_two_tables.py) |
 | 206 | Reverse Linked List | Easy | Linked List | [py](easy/206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | Arrays / Hash Set | [py](easy/217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | Strings / Hash Map | [py](easy/242_valid_anagram.py) |
@@ -99,6 +108,11 @@ leetcode/
 │   ├── 141_linked_list_cycle.py
 │   ├── 144_binary_tree_preorder_traversal.py
 │   ├── 145_binary_tree_postorder_traversal.py
+│   ├── 160_intersection_of_two_linked_lists.py
+│   ├── 168_excel_sheet_column_title.py
+│   ├── 169_majority_element.py
+│   ├── 171_excel_sheet_column_number.py
+│   ├── 175_combine_two_tables.py
 │   ├── 206_reverse_linked_list.py
 │   ├── 217_contains_duplicate.py
 │   ├── 242_valid_anagram.py
@@ -110,11 +124,15 @@ leetcode/
 │   ├── 002_add_two_numbers.py
 │   ├── 003_longest_substring_without_repeating_characters.py
 │   ├── 005_longest_palindromic_substring.py
+│   ├── 006_zigzag_conversion.py
+│   ├── 007_reverse_integer.py
+│   ├── 008_string_to_integer_atoi.py
 │   ├── 053_maximum_subarray.py
 │   ├── 122_best_time_to_buy_and_sell_stock_ii.py
 │   ├── 146_lru_cache.py
 │   ├── 560_subarray_sum_equals_k.py
 │── hard/
+│   ├── 174_dungeon_game.py
 │   ├── 564_find_the_closest_palindrome.py
 ```
 
