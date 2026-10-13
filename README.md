@@ -3,9 +3,9 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-58-blue)
-![Easy](https://img.shields.io/badge/Easy-46-green)
-![Medium](https://img.shields.io/badge/Medium-11-orange)
+![Solved](https://img.shields.io/badge/Solved-69-blue)
+![Easy](https://img.shields.io/badge/Easy-52-green)
+![Medium](https://img.shields.io/badge/Medium-15-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
@@ -20,8 +20,12 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 7 | Reverse Integer | Medium | Math | [py](medium/007_reverse_integer.py) |
 | 8 | String to Integer (atoi) | Medium | Strings / Math | [py](medium/008_string_to_integer_atoi.py) |
 | 9 | Palindrome Number | Easy | Strings | [py](easy/009_palindrome_number.py) |
+| 11 | Container With Most Water | Medium | Arrays / Two Pointers | [py](medium/011_container_with_most_water.py) |
+| 12 | Integer to Roman | Medium | Math / Strings | [py](medium/012_integer_to_roman.py) |
 | 13 | Roman to Integer | Easy | Strings / Hash Map | [py](easy/013_roman_to_integer.py) |
 | 14 | Longest Common Prefix | Easy | Strings | [py](easy/014_longest_common_prefix.py) |
+| 15 | 3Sum | Medium | Arrays / Two Pointers | [py](medium/015_3sum.py) |
+| 16 | 3Sum Closest | Medium | Arrays / Two Pointers | [py](medium/016_3sum_closest.py) |
 | 20 | Valid Parentheses | Easy | Stack | [py](easy/020_valid_parentheses.py) |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | [py](easy/021_merge_two_sorted_lists.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Arrays / Two Pointers | [py](easy/026_remove_duplicates_from_sorted_array.py) |
@@ -60,6 +64,12 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 171 | Excel Sheet Column Number | Easy | Math / Strings | [py](easy/171_excel_sheet_column_number.py) |
 | 174 | Dungeon Game | Hard | Dynamic Programming | [py](hard/174_dungeon_game.py) |
 | 175 | Combine Two Tables | Easy | SQL / Pandas | [py](easy/175_combine_two_tables.py) |
+| 181 | Employees Earning More Than Their Managers | Easy | SQL / Pandas | [py](easy/181_employees_earning_more_than_their_managers.py) |
+| 182 | Duplicate Emails | Easy | SQL / Pandas | [py](easy/182_duplicate_emails.py) |
+| 183 | Customers Who Never Order | Easy | SQL / Pandas | [py](easy/183_customers_who_never_order.py) |
+| 190 | Reverse Bits | Easy | Bit Manipulation | [py](easy/190_reverse_bits.py) |
+| 191 | Number of 1 Bits | Easy | Bit Manipulation | [py](easy/191_number_of_1_bits.py) |
+| 193 | Valid Phone Numbers | Easy | Shell / Regex | [sh](easy/193_valid_phone_numbers.sh) |
 | 206 | Reverse Linked List | Easy | Linked List | [py](easy/206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | Arrays / Hash Set | [py](easy/217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | Strings / Hash Map | [py](easy/242_valid_anagram.py) |
@@ -113,6 +123,12 @@ leetcode/
 │   ├── 169_majority_element.py
 │   ├── 171_excel_sheet_column_number.py
 │   ├── 175_combine_two_tables.py
+│   ├── 181_employees_earning_more_than_their_managers.py
+│   ├── 182_duplicate_emails.py
+│   ├── 183_customers_who_never_order.py
+│   ├── 190_reverse_bits.py
+│   ├── 191_number_of_1_bits.py
+│   ├── 193_valid_phone_numbers.sh
 │   ├── 206_reverse_linked_list.py
 │   ├── 217_contains_duplicate.py
 │   ├── 242_valid_anagram.py
@@ -127,6 +143,10 @@ leetcode/
 │   ├── 006_zigzag_conversion.py
 │   ├── 007_reverse_integer.py
 │   ├── 008_string_to_integer_atoi.py
+│   ├── 011_container_with_most_water.py
+│   ├── 012_integer_to_roman.py
+│   ├── 015_3sum.py
+│   ├── 016_3sum_closest.py
 │   ├── 053_maximum_subarray.py
 │   ├── 122_best_time_to_buy_and_sell_stock_ii.py
 │   ├── 146_lru_cache.py
