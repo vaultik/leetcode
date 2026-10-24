@@ -3,9 +3,9 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-69-blue)
-![Easy](https://img.shields.io/badge/Easy-52-green)
-![Medium](https://img.shields.io/badge/Medium-15-orange)
+![Solved](https://img.shields.io/badge/Solved-80-blue)
+![Easy](https://img.shields.io/badge/Easy-58-green)
+![Medium](https://img.shields.io/badge/Medium-20-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
@@ -26,8 +26,13 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 14 | Longest Common Prefix | Easy | Strings | [py](easy/014_longest_common_prefix.py) |
 | 15 | 3Sum | Medium | Arrays / Two Pointers | [py](medium/015_3sum.py) |
 | 16 | 3Sum Closest | Medium | Arrays / Two Pointers | [py](medium/016_3sum_closest.py) |
+| 17 | Letter Combinations of a Phone Number | Medium | Strings / Backtracking | [py](medium/017_letter_combinations_of_a_phone_number.py) |
+| 18 | 4Sum | Medium | Arrays / Two Pointers | [py](medium/018_4sum.py) |
+| 19 | Remove Nth Node From End of List | Medium | Linked List / Two Pointers | [py](medium/019_remove_nth_node_from_end_of_list.py) |
 | 20 | Valid Parentheses | Easy | Stack | [py](easy/020_valid_parentheses.py) |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | [py](easy/021_merge_two_sorted_lists.py) |
+| 22 | Generate Parentheses | Medium | Strings / Backtracking | [py](medium/022_generate_parentheses.py) |
+| 24 | Swap Nodes in Pairs | Medium | Linked List | [py](medium/024_swap_nodes_in_pairs.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Arrays / Two Pointers | [py](easy/026_remove_duplicates_from_sorted_array.py) |
 | 27 | Remove Element | Easy | Arrays / Two Pointers | [py](easy/027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Strings / Sliding Window | [py](easy/028_find_index_first_occurrence_string.py) |
@@ -70,6 +75,12 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 190 | Reverse Bits | Easy | Bit Manipulation | [py](easy/190_reverse_bits.py) |
 | 191 | Number of 1 Bits | Easy | Bit Manipulation | [py](easy/191_number_of_1_bits.py) |
 | 193 | Valid Phone Numbers | Easy | Shell / Regex | [sh](easy/193_valid_phone_numbers.sh) |
+| 195 | Tenth Line | Easy | Shell | [sh](easy/195_tenth_line.sh) |
+| 196 | Delete Duplicate Emails | Easy | SQL / Pandas | [py](easy/196_delete_duplicate_emails.py) |
+| 197 | Rising Temperature | Easy | SQL / Pandas | [py](easy/197_rising_temperature.py) |
+| 202 | Happy Number | Easy | Math / Hash Set | [py](easy/202_happy_number.py) |
+| 203 | Remove Linked List Elements | Easy | Linked List | [py](easy/203_remove_linked_list_elements.py) |
+| 205 | Isomorphic Strings | Easy | Strings / Hash Map | [py](easy/205_isomorphic_strings.py) |
 | 206 | Reverse Linked List | Easy | Linked List | [py](easy/206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | Arrays / Hash Set | [py](easy/217_contains_duplicate.py) |
 | 242 | Valid Anagram | Easy | Strings / Hash Map | [py](easy/242_valid_anagram.py) |
@@ -129,6 +140,12 @@ leetcode/
 │   ├── 190_reverse_bits.py
 │   ├── 191_number_of_1_bits.py
 │   ├── 193_valid_phone_numbers.sh
+│   ├── 195_tenth_line.sh
+│   ├── 196_delete_duplicate_emails.py
+│   ├── 197_rising_temperature.py
+│   ├── 202_happy_number.py
+│   ├── 203_remove_linked_list_elements.py
+│   ├── 205_isomorphic_strings.py
 │   ├── 206_reverse_linked_list.py
 │   ├── 217_contains_duplicate.py
 │   ├── 242_valid_anagram.py
@@ -147,6 +164,11 @@ leetcode/
 │   ├── 012_integer_to_roman.py
 │   ├── 015_3sum.py
 │   ├── 016_3sum_closest.py
+│   ├── 017_letter_combinations_of_a_phone_number.py
+│   ├── 018_4sum.py
+│   ├── 019_remove_nth_node_from_end_of_list.py
+│   ├── 022_generate_parentheses.py
+│   ├── 024_swap_nodes_in_pairs.py
 │   ├── 053_maximum_subarray.py
 │   ├── 122_best_time_to_buy_and_sell_stock_ii.py
 │   ├── 146_lru_cache.py
