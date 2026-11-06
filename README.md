@@ -3,9 +3,9 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-80-blue)
-![Easy](https://img.shields.io/badge/Easy-58-green)
-![Medium](https://img.shields.io/badge/Medium-20-orange)
+![Solved](https://img.shields.io/badge/Solved-96-blue)
+![Easy](https://img.shields.io/badge/Easy-69-green)
+![Medium](https://img.shields.io/badge/Medium-25-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
@@ -36,7 +36,12 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 26 | Remove Duplicates from Sorted Array | Easy | Arrays / Two Pointers | [py](easy/026_remove_duplicates_from_sorted_array.py) |
 | 27 | Remove Element | Easy | Arrays / Two Pointers | [py](easy/027_remove_element.py) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Strings / Sliding Window | [py](easy/028_find_index_first_occurrence_string.py) |
+| 29 | Divide Two Integers | Medium | Math / Bit Manipulation | [py](medium/029_divide_two_integers.py) |
+| 31 | Next Permutation | Medium | Arrays | [py](medium/031_next_permutation.py) |
+| 33 | Search in Rotated Sorted Array | Medium | Arrays / Binary Search | [py](medium/033_search_in_rotated_sorted_array.py) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Arrays / Binary Search | [py](medium/034_find_first_and_last_position.py) |
 | 35 | Search Insert Position | Easy | Arrays / Binary Search | [py](easy/035_search_insert_position.py) |
+| 36 | Valid Sudoku | Medium | Arrays / Hash Set | [py](medium/036_valid_sudoku.py) |
 | 53 | Maximum Subarray | Medium | Arrays / Dynamic Programming | [py](medium/053_maximum_subarray.py) |
 | 58 | Length of Last Word | Easy | Strings | [py](easy/058_length_of_last_word.py) |
 | 66 | Plus One | Easy | Arrays | [py](easy/066_plus_one.py) |
@@ -83,6 +88,13 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 205 | Isomorphic Strings | Easy | Strings / Hash Map | [py](easy/205_isomorphic_strings.py) |
 | 206 | Reverse Linked List | Easy | Linked List | [py](easy/206_reverse_linked_list.py) |
 | 217 | Contains Duplicate | Easy | Arrays / Hash Set | [py](easy/217_contains_duplicate.py) |
+| 219 | Contains Duplicate II | Easy | Arrays / Sliding Window | [py](easy/219_contains_duplicate_ii.py) |
+| 225 | Implement Stack using Queues | Easy | Stack / Queue | [py](easy/225_implement_stack_using_queues.py) |
+| 226 | Invert Binary Tree | Easy | Binary Tree / DFS | [py](easy/226_invert_binary_tree.py) |
+| 228 | Summary Ranges | Easy | Arrays | [py](easy/228_summary_ranges.py) |
+| 231 | Power of Two | Easy | Math / Bit Manipulation | [py](easy/231_power_of_two.py) |
+| 232 | Implement Queue using Stacks | Easy | Stack / Queue | [py](easy/232_implement_queue_using_stacks.py) |
+| 234 | Palindrome Linked List | Easy | Linked List / Two Pointers | [py](easy/234_palindrome_linked_list.py) |
 | 242 | Valid Anagram | Easy | Strings / Hash Map | [py](easy/242_valid_anagram.py) |
 | 560 | Subarray Sum Equals K | Medium | Arrays / Hash Map | [py](medium/560_subarray_sum_equals_k.py) |
 | 564 | Find the Closest Palindrome | Hard | Math / Strings | [py](hard/564_find_the_closest_palindrome.py) |
@@ -148,6 +160,13 @@ leetcode/
 │   ├── 205_isomorphic_strings.py
 │   ├── 206_reverse_linked_list.py
 │   ├── 217_contains_duplicate.py
+│   ├── 219_contains_duplicate_ii.py
+│   ├── 225_implement_stack_using_queues.py
+│   ├── 226_invert_binary_tree.py
+│   ├── 228_summary_ranges.py
+│   ├── 231_power_of_two.py
+│   ├── 232_implement_queue_using_stacks.py
+│   ├── 234_palindrome_linked_list.py
 │   ├── 242_valid_anagram.py
 │   ├── 704_binary_search.py
 │   ├── 744_find_smallest_letter.py
@@ -169,6 +188,11 @@ leetcode/
 │   ├── 019_remove_nth_node_from_end_of_list.py
 │   ├── 022_generate_parentheses.py
 │   ├── 024_swap_nodes_in_pairs.py
+│   ├── 029_divide_two_integers.py
+│   ├── 031_next_permutation.py
+│   ├── 033_search_in_rotated_sorted_array.py
+│   ├── 034_find_first_and_last_position.py
+│   ├── 036_valid_sudoku.py
 │   ├── 053_maximum_subarray.py
 │   ├── 122_best_time_to_buy_and_sell_stock_ii.py
 │   ├── 146_lru_cache.py
