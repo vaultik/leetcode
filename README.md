@@ -3,9 +3,9 @@
 Solutions in Python. Adding one problem per day.  
 For problems with multiple solutions, the file contains both the first attempt and the optimized version.
 
-![Solved](https://img.shields.io/badge/Solved-96-blue)
-![Easy](https://img.shields.io/badge/Easy-69-green)
-![Medium](https://img.shields.io/badge/Medium-25-orange)
+![Solved](https://img.shields.io/badge/Solved-111-blue)
+![Easy](https://img.shields.io/badge/Easy-76-green)
+![Medium](https://img.shields.io/badge/Medium-33-orange)
 ![Hard](https://img.shields.io/badge/Hard-2-red)
 
 ## Progress
@@ -42,6 +42,11 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Arrays / Binary Search | [py](medium/034_find_first_and_last_position.py) |
 | 35 | Search Insert Position | Easy | Arrays / Binary Search | [py](easy/035_search_insert_position.py) |
 | 36 | Valid Sudoku | Medium | Arrays / Hash Set | [py](medium/036_valid_sudoku.py) |
+| 38 | Count and Say | Medium | Strings | [py](medium/038_count_and_say.py) |
+| 39 | Combination Sum | Medium | Arrays / Backtracking | [py](medium/039_combination_sum.py) |
+| 40 | Combination Sum II | Medium | Arrays / Backtracking | [py](medium/040_combination_sum_ii.py) |
+| 43 | Multiply Strings | Medium | Math / Strings | [py](medium/043_multiply_strings.py) |
+| 45 | Jump Game II | Medium | Arrays / Greedy | [py](medium/045_jump_game_ii.py) |
 | 53 | Maximum Subarray | Medium | Arrays / Dynamic Programming | [py](medium/053_maximum_subarray.py) |
 | 58 | Length of Last Word | Easy | Strings | [py](easy/058_length_of_last_word.py) |
 | 66 | Plus One | Easy | Arrays | [py](easy/066_plus_one.py) |
@@ -96,6 +101,13 @@ For problems with multiple solutions, the file contains both the first attempt a
 | 232 | Implement Queue using Stacks | Easy | Stack / Queue | [py](easy/232_implement_queue_using_stacks.py) |
 | 234 | Palindrome Linked List | Easy | Linked List / Two Pointers | [py](easy/234_palindrome_linked_list.py) |
 | 242 | Valid Anagram | Easy | Strings / Hash Map | [py](easy/242_valid_anagram.py) |
+| 257 | Binary Tree Paths | Easy | Binary Tree / DFS | [py](easy/257_binary_tree_paths.py) |
+| 258 | Add Digits | Easy | Math | [py](easy/258_add_digits.py) |
+| 263 | Ugly Number | Easy | Math | [py](easy/263_ugly_number.py) |
+| 268 | Missing Number | Easy | Arrays / Math | [py](easy/268_missing_number.py) |
+| 278 | First Bad Version | Easy | Arrays / Binary Search | [py](easy/278_first_bad_version.py) |
+| 283 | Move Zeroes | Easy | Arrays / Two Pointers | [py](easy/283_move_zeroes.py) |
+| 290 | Word Pattern | Easy | Strings / Hash Map | [py](easy/290_word_pattern.py) |
 | 560 | Subarray Sum Equals K | Medium | Arrays / Hash Map | [py](medium/560_subarray_sum_equals_k.py) |
 | 564 | Find the Closest Palindrome | Hard | Math / Strings | [py](hard/564_find_the_closest_palindrome.py) |
 | 704 | Binary Search | Easy | Arrays / Binary Search | [py](easy/704_binary_search.py) |
@@ -168,6 +180,13 @@ leetcode/
 │   ├── 232_implement_queue_using_stacks.py
 │   ├── 234_palindrome_linked_list.py
 │   ├── 242_valid_anagram.py
+│   ├── 257_binary_tree_paths.py
+│   ├── 258_add_digits.py
+│   ├── 263_ugly_number.py
+│   ├── 268_missing_number.py
+│   ├── 278_first_bad_version.py
+│   ├── 283_move_zeroes.py
+│   ├── 290_word_pattern.py
 │   ├── 704_binary_search.py
 │   ├── 744_find_smallest_letter.py
 │   ├── 746_min_cost_climbing_stairs.py
@@ -193,6 +212,11 @@ leetcode/
 │   ├── 033_search_in_rotated_sorted_array.py
 │   ├── 034_find_first_and_last_position.py
 │   ├── 036_valid_sudoku.py
+│   ├── 038_count_and_say.py
+│   ├── 039_combination_sum.py
+│   ├── 040_combination_sum_ii.py
+│   ├── 043_multiply_strings.py
+│   ├── 045_jump_game_ii.py
 │   ├── 053_maximum_subarray.py
 │   ├── 122_best_time_to_buy_and_sell_stock_ii.py
 │   ├── 146_lru_cache.py
